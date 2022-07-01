@@ -9,6 +9,8 @@
 </div>
 <br/>
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
 
 ### Aprendendo
 <div style="display: inline_block">
