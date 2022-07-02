@@ -9,6 +9,7 @@
 </div>
 <br/>
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={GeovanaSchuindt}&theme=blue-green
 
 
 
